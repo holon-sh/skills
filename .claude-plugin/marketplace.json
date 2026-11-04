@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "holon-skills",
+  "owner": {
+    "name": "Holon"
+  },
+  "plugins": [
+    {
+      "name": "holon",
+      "source": "./",
+      "description": "Holon app development and deployment."
+    }
+  ],
+  "description": "Skills for building and operating Holon apps."
+}

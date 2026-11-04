@@ -1,0 +1,11 @@
+{
+  "name": "holon",
+  "version": "0.0.1-dev.1",
+  "description": "Build, run, deploy, and troubleshoot Holon apps on Cloud or self-hosted installations.",
+  "author": {
+    "name": "Holon"
+  },
+  "homepage": "https://holon-labs.dev/docs/",
+  "repository": "https://github.com/holon-sh/skills",
+  "license": "MIT"
+}

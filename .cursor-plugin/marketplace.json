@@ -1,0 +1,16 @@
+{
+  "name": "holon-skills",
+  "owner": {
+    "name": "Holon"
+  },
+  "metadata": {
+    "description": "Skills for building and operating Holon apps."
+  },
+  "plugins": [
+    {
+      "name": "holon",
+      "source": "./",
+      "description": "Holon app development and deployment."
+    }
+  ]
+}
