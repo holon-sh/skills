@@ -5,6 +5,14 @@ troubleshooting [Holon](https://holon-labs.dev).
 
 ## Install
 
+### Setup prompt
+
+Paste this into your agent:
+
+```text
+Fetch and execute the appropriate instructions to set me up for Holon from https://holon-labs.dev/agent-setup/prompt.md
+```
+
 ### Agent Skills
 
 ```sh
