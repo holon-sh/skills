@@ -69,3 +69,7 @@ See the [Claude marketplace guide](https://code.claude.com/docs/en/plugin-market
 Connect to [Holon Docs](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.holon-sh%2Fdocs/versions/latest)
 at `https://holon-labs.dev/mcp/docs` with a client that supports the
 [MCP Skills extension](https://modelcontextprotocol.io/extensions/skills/overview).
+
+## Community
+
+Ask questions and share what you're building on the [Holon Discord](https://holon-labs.dev/discord/).
