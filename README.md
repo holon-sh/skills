@@ -27,8 +27,6 @@ codex plugin marketplace add holon-sh/skills
 codex plugin add holon@holon-skills
 ```
 
-See the [Codex marketplace guide](https://developers.openai.com/plugins/build/plugins).
-
 </details>
 
 <details>
@@ -36,8 +34,6 @@ See the [Codex marketplace guide](https://developers.openai.com/plugins/build/pl
 
 In **Dashboard → Plugins & MCPs → Team Marketplaces → Add Marketplace**, choose
 **Import from Repo** and enter `https://github.com/holon-sh/skills`.
-
-See the [Cursor plugin guide](https://cursor.com/docs/plugins).
 
 </details>
 
@@ -48,8 +44,6 @@ See the [Cursor plugin guide](https://cursor.com/docs/plugins).
 devin plugins install holon-sh/skills
 ```
 
-See the [Devin plugin guide](https://docs.devin.ai/cli/extensibility/plugins/overview).
-
 </details>
 
 <details>
@@ -59,8 +53,6 @@ See the [Devin plugin guide](https://docs.devin.ai/cli/extensibility/plugins/ove
 claude plugin marketplace add holon-sh/skills
 claude plugin install holon@holon-skills
 ```
-
-See the [Claude marketplace guide](https://code.claude.com/docs/en/plugin-marketplaces).
 
 </details>
 
