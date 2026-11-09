@@ -72,4 +72,4 @@ at `https://holon-labs.dev/mcp/docs` with a client that supports the
 
 ## Community
 
-Ask questions and share what you're building on the [Holon Discord](https://holon-labs.dev/discord/).
+Ask questions and share what you're building on the [Holon Discord](https://discord.gg/jXExyBdy).
