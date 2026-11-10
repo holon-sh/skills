@@ -1,7 +1,7 @@
 # Holon Skills
 
 [Agent Skill](https://agentskills.io/) for building, running, deploying, and
-troubleshooting [Holon](https://holon-labs.dev).
+troubleshooting [Holon](https://holonlabs.ai).
 
 ## Install
 
@@ -10,7 +10,7 @@ troubleshooting [Holon](https://holon-labs.dev).
 Paste this into your agent:
 
 ```text
-Fetch and execute the appropriate instructions to set me up for Holon from https://holon-labs.dev/agent-setup/prompt.md
+Fetch and execute the appropriate instructions to set me up for Holon from https://holonlabs.ai/agent-setup/prompt.md
 ```
 
 ### Agent Skills
@@ -67,7 +67,7 @@ See the [Claude marketplace guide](https://code.claude.com/docs/en/plugin-market
 ### MCP
 
 Connect to [Holon Docs](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.holon-sh%2Fdocs/versions/latest)
-at `https://holon-labs.dev/mcp/docs` with a client that supports the
+at `https://holonlabs.ai/mcp/docs` with a client that supports the
 [MCP Skills extension](https://modelcontextprotocol.io/extensions/skills/overview).
 
 ## Community
