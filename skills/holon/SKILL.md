@@ -13,21 +13,21 @@ and MCP access. Use the existing project and selected installation as context.
 
 ## Find the relevant guide
 
-Read the relevant [Holon docs](https://holon-labs.dev/docs/) before implementing
+Read the relevant [Holon docs](https://holonlabs.ai/docs/) before implementing
 version-sensitive details. Use authenticated browser access or the Docs MCP
 resources when needed; do not invent behavior if the docs are unavailable.
 
-- Install the CLI or select Cloud/local Holon: [Installation](https://holon-labs.dev/docs/#installation).
-- Build an app or MCP App: [Build an app](https://holon-labs.dev/docs/#build-an-app).
-- Compose apps with an agent: [Build an agent](https://holon-labs.dev/docs/#build-an-agent).
-- Generate typed app clients: [Typed clients](https://holon-labs.dev/docs/#typed-clients).
-- Configure sign-in and verified identity: [Identity](https://holon-labs.dev/docs/#configure-identity).
-- Set app and tool access rules: [Authorization](https://holon-labs.dev/docs/#configure-authorization).
-- Configure outbound connections: [Outbound access](https://holon-labs.dev/docs/#limit-outbound-access).
-- Connect external MCP servers: [External apps](https://holon-labs.dev/docs/#add-external-apps).
-- Operate a self-hosted production installation: [Kubernetes](https://holon-labs.dev/docs/#deploy-on-kubernetes).
-- Develop, deploy, inspect apps, or manage configuration: [CLI](https://holon-labs.dev/docs/#cli-reference).
-- Edit project/server manifests or installation values: [Project](https://holon-labs.dev/docs/#config/project), [server](https://holon-labs.dev/docs/#config/server), [Helm](https://holon-labs.dev/docs/#config/helm).
+- Install the CLI or select Cloud/local Holon: [Installation](https://holonlabs.ai/docs/#installation).
+- Build an app or MCP App: [Build an app](https://holonlabs.ai/docs/#build-an-app).
+- Compose apps with an agent: [Build an agent](https://holonlabs.ai/docs/#build-an-agent).
+- Generate typed app clients: [Typed clients](https://holonlabs.ai/docs/#typed-clients).
+- Configure sign-in and verified identity: [Identity](https://holonlabs.ai/docs/#configure-identity).
+- Set app and tool access rules: [Authorization](https://holonlabs.ai/docs/#configure-authorization).
+- Configure outbound connections: [Outbound access](https://holonlabs.ai/docs/#limit-outbound-access).
+- Connect external MCP servers: [External apps](https://holonlabs.ai/docs/#add-external-apps).
+- Operate a self-hosted production installation: [Kubernetes](https://holonlabs.ai/docs/#deploy-on-kubernetes).
+- Develop, deploy, inspect apps, or manage configuration: [CLI](https://holonlabs.ai/docs/#cli-reference).
+- Edit project/server manifests or installation values: [Project](https://holonlabs.ai/docs/#config/project), [server](https://holonlabs.ai/docs/#config/server), [Helm](https://holonlabs.ai/docs/#config/helm).
 
 ## Resolve the target
 
